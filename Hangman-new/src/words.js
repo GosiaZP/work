@@ -1,0 +1,1 @@
+export default ["dog", "cat", "school", "workspace", "word", "terminal", "selection", "file"]
